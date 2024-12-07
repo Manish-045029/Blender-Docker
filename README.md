@@ -13,7 +13,7 @@ Pre-configured Docker images reduce setup time and complexity.
 #### Enhanced Collaboration:
 Provides a standardized environment for teams working on 3D projects.
 
-"C:\Users\Admin\Downloads\Blender_Docker Project (1) (1).mp4"
+https://github.com/user-attachments/assets/6c5e91d8-5d8b-4d49-b944-6a1771e3215c
 
 ## Pre-requisites
 A system with Docker installed and configured.
