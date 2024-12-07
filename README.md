@@ -1,4 +1,4 @@
-# Blender-Docker
+# Blender_Docker Project
 
 ## Introduction
 The Blender Docker Project integrates Blender, a powerful open-source 3D creation suite, with Docker, a platform for containerization. This project aims to simplify and standardize Blender's deployment and usage across different systems and environments by packaging it into a Docker container.
