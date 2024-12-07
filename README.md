@@ -23,7 +23,7 @@ Basic knowledge of command-line tools.
 ## Steps
 Pulling the Blender Docker Image
 
-##### docker pull kasmweb/blender
+#### docker pull kasmweb/blender
 
 ## Running Blenderin a Container
 Environment Variables
@@ -31,9 +31,9 @@ APP_ARGS - Additional arguments to pass to the application when launched.
 Stand-alone Deployment
 This image was designed to run natively within Kasm Workspaces, but it can also be deployed stand-alone and accessed through a web browser.
 
-##### sudo docker run --rm -it --shm-size=512m -p 6901:6901 -e VNC_PW=password kasmweb/blender:1.16.0
+#### sudo docker run --rm -it --shm-size=512m -p 6901:6901 -e VNC_PW=password kasmweb/blender:1.16.0
 The container is now accessible via a browser :
-##### https://IP_OF_SERVER:6901
+#### https://IP_OF_SERVER:6901
 
 User : kasm_user
 Password: password
